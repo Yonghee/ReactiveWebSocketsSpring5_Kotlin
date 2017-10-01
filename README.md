@@ -7,6 +7,7 @@ AngularJS + WebSocket + Spring5 Reactive
 - npm install -g @angular/cli
 
 ## run ws-client
+- ng new ws-client
 - cd ws-client
 - ng serve --open
 - http://localhost:4200

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/reactive-file-service/reactive-file-service.iml" filepath="$PROJECT_DIR$/reactive-file-service/reactive-file-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ws-client/ws-client.iml" filepath="$PROJECT_DIR$/ws-client/ws-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ws-service/ws-service.iml" filepath="$PROJECT_DIR$/ws-service/ws-service.iml" />
     </modules>
